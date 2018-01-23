@@ -1,0 +1,65 @@
+/* estilos para el navbar mobile */
+body {
+  background-color: #2B2B2B;
+  color: rgba(213,68,129,.64);
+  font-family:  sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.splash {
+  width: inherit;
+  height: auto;
+  color: #rgb(186,137,158);
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin: 50vh auto;
+}
+.splash h2{
+  font-size: 14rem;
+
+}
+
+.container-fluid{
+  width: inherit;
+  height: auto;
+  color: #rgb(186,137,158);
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+header{
+  width: inherit;
+  background-color: rgb(70,69,73);
+  height: auto;
+  margin: 0;
+}
+#head{
+  font-size: 8rem;
+  margin: 2%;
+  display:inline-block;
+}
+
+#map {
+        max-width: 50%;
+        max-height: auto;
+        display: block;
+        padding: 10%;
+        margin: 5% 25%;
+      }
+
+#invitation{
+  text-align: center;
+  font-size: 5rem;
+  margin:1%;
+
+}
+
+.ficha-cafeteria {
+  display: inline-block;
+  width: 100%
+  height: 50vh;
+  color: rgba(213,68,129,.64);
+
+}
